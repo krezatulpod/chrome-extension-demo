@@ -33,6 +33,6 @@ That's it! You’ll see the extension icon appear in your browser.
 ## 🔗 Fiverr Service
 
 If you want a custom Chrome extension built for your own idea, visit:  
-👉 [My Fiverr Gig](https://www.fiverr.com/sellers/giubelan_cristi) 
+👉 [My Fiverr Gig](https://www.fiverr.com/giubelan_cristi) 
 
 ---
